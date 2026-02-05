@@ -1,0 +1,60 @@
+commit 321e2c605e112467f46895f57c37a50558c4bac2
+Merge: 6f0ea74 a173a0a
+Author: Brian Regalado <bberna19@calstatela.edu>
+Date:   Wed Feb 4 21:34:16 2026 -0800
+
+    Resolve merge conflict in index.html
+
+commit a173a0a12514fbb3a8c30ff8a866c1d664af147e
+Author: Brian Regalado <bberna19@calstatela.edu>
+Date:   Wed Feb 4 21:32:27 2026 -0800
+
+    Change favorite to movie
+
+commit 6f0ea74c567a53978758203b910d00ac15039119
+Author: Brian Regalado <bberna19@calstatela.edu>
+Date:   Wed Feb 4 21:31:48 2026 -0800
+
+    Add favorite food
+
+commit 30790724f76a653388e0bd4f8d125c75335e1df8
+Author: Brian Regalado <bberna19@calstatela.edu>
+Date:   Wed Feb 4 21:28:56 2026 -0800
+
+    Add favorite movie to index.html
+
+commit ef9848e2634bb4c2b78540f0d9ad213f89c8fff4
+Author: Brian Regalado <bberna19@calstatela.edu>
+Date:   Wed Feb 4 21:27:13 2026 -0800
+
+    Add favorite food to index.html
+
+commit 2934736eeaec12457f70108d45817e35ed3d3555
+Author: Brian Regalado <bberna19@calstatela.edu>
+Date:   Wed Feb 4 15:57:39 2026 -0800
+
+    Add favorite movie to index.html
+
+commit 08f129066bfaa34f2879491d423477ca7a9ce3bf
+Author: Brian Regalado <bberna19@calstatela.edu>
+Date:   Wed Feb 4 15:56:48 2026 -0800
+
+    Add favorite food to index.html
+
+commit 13c2490fe2f9d22a999a095fbae7bf785e486323
+Author: Brian Regalado <bberna19@calstatela.edu>
+Date:   Wed Feb 4 15:48:05 2026 -0800
+
+    Add README describing the repository
+
+commit f2b2381d4542278b8d1a0b64861fee5a7d08fb87
+Author: Brian Regalado <bberna19@calstatela.edu>
+Date:   Wed Feb 4 15:37:44 2026 -0800
+
+    Filled in info on index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
